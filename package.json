@@ -1,0 +1,30 @@
+{
+  "name": "wit-api",
+  "version": "1.0.0",
+  "description": "Implementation of wit api, provides methods to easily manage your wit app",
+  "main": "index.js",
+  "keywords": [
+    "wit",
+    "api",
+    "nlp",
+    "wit-api",
+    "ai",
+    "bot",
+    "chatbot",
+    "ES6"
+  ],
+  "scripts": {
+    "test": "nyc mocha --timeout 50000 --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hexastack/wit-api.git"
+  },
+  "author": "Hexastack <contact@hexastack.com>",
+  "license": "BSD-4-Clause",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2"
+  }
+}

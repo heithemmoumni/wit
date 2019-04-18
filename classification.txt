@@ -1,0 +1,34 @@
+traits:
+    Intent
+        try - try a dress
+        order - order something
+        cost - ask about price
+        available - asks if something is available
+free-text:
+    quantity
+keywords & free-text:
+    size
+        S
+        M
+        L
+        XL
+    color
+        blue
+        white
+        grey
+        black
+keywords:
+    product
+        pant
+        shirt
+        shoe
+    pantBrand
+        bull
+        fuel
+        murderer
+    shirtTextile
+        coton
+        nylon
+    shoesGendre
+        male
+        female

@@ -1,0 +1,8 @@
+n7eb n9iss sebago|intent try|product shoe sebago
+enajem njarreb chemise|intent try|product shirt chemise
+n7eb na5ou zouz djinet|intent order|product pant djinet|quantity 2 zouz
+bech nechri maryoul|intent order|product shirt maryoul|quantity 1
+3andkom mrawel taille 42|intent isAvailable|product shirt mrawel|size L 42
+bech na5ou chemise w serwel assortie fil azra9|intent order|product shirt chemise|product pant serwel|color blue azra9
+win enjareb sbabet|intent try|product shoe sbabet
+el maryoul hedha 3jibni, bech enjarbou|intent try|product shirt maryoul
